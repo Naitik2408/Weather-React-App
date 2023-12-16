@@ -1,0 +1,22 @@
+.weather_title{
+    font-family: var(--primar-font-family);
+    color: white;
+    font-size: 14px;
+    margin-bottom: 5px;
+    margin-top: 28px;
+  }
+hr{
+    margin: 10px 0 20px 0;
+    height: 0.08px;
+    border: none;
+    background-color: rgb(237, 237, 237);
+  }
+.weather_details_info .W_element{
+    display: flex;
+    justify-content: space-between;
+    margin: 17px 0;
+    font-family: var(--primar-font-family);
+    color: rgb(205, 205, 205);
+    font-size: 13px;
+    font-weight: 200;
+  }
